@@ -64,7 +64,7 @@
           "relation": "신부",
           "bank": "토스뱅크",
           "account": "1234-5678-9012",
-          "kakaopayAccount": "{수정예정",
+          "kakaopayAccount": "{수정예정}",
           "tossAccount": ""
         },
         {
@@ -91,7 +91,7 @@
     },
     {
       "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 3-5층 2시간 무료주차\n(안내데스크에서 주차권 수령)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 옆 웨딩홀 주차장 1시간 무료주차\n\uD83D\uDC49\uD83C\uDFFB 건국대학교 내부 주차장 2시간 무료주차"
     }
   ],
   "emojis": [
