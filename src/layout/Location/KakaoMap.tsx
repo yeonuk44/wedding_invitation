@@ -3,10 +3,13 @@ import data from 'data.json';
 
 const KakaoMap = () => {
   const { lat, lon } = data.mapInfo;
-  
+
+  const offsetLat = 0.0012; // 위쪽으로 이동
+  const offsetLng = -0.002; // 왼쪽으로 이동
+
   const [error] = useKakaoLoader({
     appkey: import.meta.env.VITE_APP_KAKAOMAP_JAVASCRIPT_KEY,
-    libraries: ['services', 'clusterer']
+    libraries: ['services', 'clusterer'],
   });
 
   if (error) {
@@ -14,11 +17,10 @@ const KakaoMap = () => {
   }
 
   return (
-    <Map 
-      center={{ lat, lng: lon }} 
+    <Map
+      center={{ lat: lat + offsetLat, lng: lon + offsetLng }}
       style={{ width: '100%', height: '230px' }}
-      level={3}
-    >
+      level={4}>
       <MapMarker position={{ lat, lng: lon }} />
     </Map>
   );

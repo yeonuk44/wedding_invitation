@@ -81,13 +81,13 @@
     "address2": "서울 광진구 아차산로 36길 5 단독홀\n02-447-4045",
     "naverMap": "https://naver.me/I5y0EmjB",
     "kakaoMap": "https://kko.kakao.com/qIem0m6pWU",
-    "lat": 37.54222,
-    "lon": 126.952708
+    "lat": 37.5382,
+    "lon": 127.07461
   },
   "locationInfo": [
     {
       "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 5·6호선 공덕역 7번 출구 (도보 2분)\n\uD83D\uDC49\uD83C\uDFFB 경의·중앙선, 공항철도 공덕역 10번 출구 (도보 30초)"
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 2·7호선 건대입구역 5번 출구 (도보 10분)"
     },
     {
       "title": "\uD83D\uDCCD 주차안내",
