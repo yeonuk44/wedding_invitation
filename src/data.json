@@ -62,8 +62,8 @@
         {
           "name": "김은혜",
           "relation": "신부",
-          "bank": "토스뱅크",
-          "account": "1234-5678-9012",
+          "bank": "카카오뱅크",
+          "account": "3333-09-9549686",
           "kakaopayAccount": "",
           "tossAccount": ""
         },
@@ -71,14 +71,14 @@
           "name": "김성환",
           "relation": "아버지",
           "bank": "농협",
-          "account": "123-45-678901"
+          "account": "171955-52-032161"
         }
       ]
     }
   ],
   "mapInfo": {
     "address1": "KU 컨벤션 웨딩홀",
-    "address2": "서울 광진구 아차산로 36길 5 단독홀\n02-447-7005",
+    "address2": "서울 광진구 아차산로 36길 5 (자양동) 단독홀\n02-447-7005",
     "naverMap": "https://naver.me/I5y0EmjB",
     "kakaoMap": "https://kko.kakao.com/qIem0m6pWU",
     "lat": 37.5382,
@@ -92,6 +92,10 @@
     {
       "title": "\uD83D\uDCCD 주차안내",
       "desc": "\uD83D\uDC49\uD83C\uDFFB KU컨벤션웨딩홀 전용 주차장 이용 (1시간 무료)\n\uD83D\uDC49\uD83C\uDFFB 건국대 수의과대학 주차장 이용 (2시간 무료)"
+    },
+    {
+      "title": "\uD83D\uDCCD 전세버스 안내",
+      "desc": "\uD83D\uDC49\uD83C\uDFFB 출발 시간: 13:30 \n\uD83D\uDC49\uD83C\uDFFB 탑승 장소: 여주시민회관"
     }
   ],
   "emojis": [
